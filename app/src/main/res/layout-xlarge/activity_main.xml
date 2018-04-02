@@ -145,7 +145,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:background="#C6512F"
+        android:background="@drawable/main_button_design"
         android:text="Some action soon"
         android:textColor="@android:color/white"
         app:layout_constraintBottom_toBottomOf="parent"
